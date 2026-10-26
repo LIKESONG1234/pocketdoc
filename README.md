@@ -24,7 +24,7 @@
 
 | PDF 글자 편집 | 한글 문서 편집 | 원하는 형식으로 저장 | 첫 화면 |
 |:---:|:---:|:---:|:---:|
-| <img src="screenshot_1_pdf.png" width="200"> | <img src="screenshot_2_hwpx.png" width="200"> | <img src="screenshot_3_save.png" width="200"> | <img src="screenshot_4_home.png" width="200"> |
+| <img src="screenshot_1_pdf_2.png" width="200"> | <img src="screenshot_2_hwpx_2.png" width="200"> | <img src="screenshot_3_save_2.png" width="200"> | <img src="screenshot_4_home_2.png" width="200"> |
 
 ## 할 수 있는 것
 
